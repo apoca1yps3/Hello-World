@@ -1,2 +1,3 @@
-# Hello-World
-just another repository
+# Hello-world
+
+Crypto here, I am novice to coding world and I have started learning java.
